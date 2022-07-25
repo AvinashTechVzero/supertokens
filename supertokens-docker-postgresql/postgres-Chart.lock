@@ -1,0 +1,6 @@
+dependencies:
+- name: common
+  repository: https://nicholaswilde.github.io/helm-charts/
+  version: 0.1.14
+digest: sha256:d08f0b3ecf51435cccdbed9234475686fb021ade2f7b6ee46b3cec61592e0edf
+generated: "2022-07-22T15:14:07.182167932+05:30"
