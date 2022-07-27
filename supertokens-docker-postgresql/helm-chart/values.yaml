@@ -19,7 +19,7 @@ database:
   # -- database user 
   user: postgres
   # -- database password
-  password: l5RrpH0anb
+  password: 6zGW4XOT9d
 service:
   port: 3567
   targetPort: 3567
