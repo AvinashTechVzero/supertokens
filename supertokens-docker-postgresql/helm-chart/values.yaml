@@ -15,7 +15,7 @@ database:
   # -- database port
   port: 5432
   # -- database host
-  host: my-postgresql
+  host: my-postgres-postgresql 
   # -- database user 
   user: postgres
   # -- database password
